@@ -1,4 +1,6 @@
 # Chuwi Aerobook EFI Folder
+
+![alt text](https://github.com/lavjamanxd/chuwi_aerobook_hackintosh/blob/master/screenshots/info.png?raw=true)
 ### Tested on:
 * macOS 10.14 Mojave
 
